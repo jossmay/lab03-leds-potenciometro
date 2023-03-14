@@ -1,3 +1,6 @@
+// José Alexander Mayorga Ortíz
+// 9491-20-12975
+
 // Declaración de constantes
 const int ledRojo = 5;
 const int ledAmarillo = 6;
